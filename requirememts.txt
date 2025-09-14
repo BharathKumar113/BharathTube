@@ -1,0 +1,4 @@
+Flask>=2.2,<3.0
+itsdangerous>=2.1
+qrcode
+pillow
